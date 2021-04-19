@@ -1,12 +1,12 @@
 # C++
 
+## Books
+
 ---
 
 Stroustrup, B. **A tour of C++**. (Addison-Wesley, 2018).
 
 https://www.goodreads.com/book/show/18197265-a-tour-of-c
-
----
 
 ---
 

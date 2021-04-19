@@ -8,6 +8,8 @@ Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **G
 
 [Bookmarks](./bookmarks.md)
 
+[Compilers](./compilers.md)
+
 [C++](./cpp.md)
 
 [Courses](./courses.md)
@@ -16,10 +18,10 @@ Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **G
 
 [Geophysics](./geophysics.md)
 
-[misc](./misc.md)
-
 [ML](./ml.md)
 
 [NLP](./nlp.md)
 
 [DL model quanzlization](./quanzlization.md)
+
+[Misc](./misc.md)
