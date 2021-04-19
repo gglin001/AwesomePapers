@@ -26,7 +26,9 @@ https://www.goodreads.com/book/show/37419698
 
 ---
 
-魏晓椿 et al. **长江的前世今生**. Sci. Sin.-Terrae 47, 385–393 (2017).
+**长江的前世今生**
+
+魏晓椿 et al. 长江的前世今生. Sci. Sin.-Terrae 47, 385–393 (2017).
 
 https://doi.org/10.1360/N072017-00003
 
