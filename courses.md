@@ -23,3 +23,15 @@ by Prof. Gilbert Strang
 [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018)
 
 ---
+
+## Others
+
+---
+
+**Deep Learning from NYU**
+
+https://atcold.github.io/pytorch-Deep-Learning/
+
+https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+
+---

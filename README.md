@@ -6,6 +6,8 @@ Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **G
 
 ## List
 
+[Algorithm](./algo.md)
+
 [Bookmarks](./bookmarks.md)
 
 [Compilers](./compilers.md)

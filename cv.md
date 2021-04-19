@@ -4,7 +4,9 @@
 
 ---
 
-Szeliski, R. **Computer Vision: Algorithms and Applications**. (2010).
+**Computer Vision: Algorithms and Applications**
+
+Szeliski, R. Computer Vision: Algorithms and Applications. (2010).
 
 https://www.goodreads.com/book/show/9494221-computer-vision
 
