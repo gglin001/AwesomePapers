@@ -1,6 +1,6 @@
 # Awesome Papers
 
-Interesting papers and documents.
+Awesome papers and documents.
 
 Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **Geophysics**, **Life-Science**, etc.
 
@@ -8,9 +8,9 @@ Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **G
 
 [Algorithm](./algo.md)
 
-[Bookmarks](./bookmarks.md)
+[Bookmark](./bookmarks.md)
 
-[Compilers](./compilers.md)
+[Compiler](./compilers.md)
 
 [C++](./cpp.md)
 

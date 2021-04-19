@@ -12,6 +12,30 @@ Bishop, C. M. Pattern recognition and machine learning. (Springer, 2006).
 
 ---
 
+**Introduction to Linear Algebra**
+
+Strang, G. Introduction to Linear Algebra. (2016).
+
+https://www.goodreads.com/book/show/179700.Introduction_to_Linear_Algebra
+
+---
+
+**Linear Algebra and Learning from Data**
+
+Strang, G. Linear Algebra and Learning from Data. (2019).
+
+https://www.goodreads.com/book/show/43541181-linear-algebra-and-learning-from-data
+
+---
+
+**Convex optimization**
+
+Boyd, S. P. & Vandenberghe, L. Convex optimization. (Cambridge University Press, 2004).
+
+https://www.goodreads.com/book/show/148030
+
+---
+
 ## Papers
 
 ---
