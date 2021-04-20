@@ -24,6 +24,8 @@ Subjects: **ML**, **DL**, **CV**, **NLP**, **Time-SeriesX**, and others like **G
 
 [NLP](./nlp.md)
 
-[DL model quanzlization](./quanzlization.md)
+[quanzlization(dl model)](./quanzlization.md)
+
+[Repos](./repos.md)
 
 [Misc](./misc.md)

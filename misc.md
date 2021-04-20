@@ -33,3 +33,9 @@ https://www.goodreads.com/book/show/37419698
 https://doi.org/10.1360/N072017-00003
 
 ---
+
+IEEE Std 754™-2008, IEEE Standard for Floating-Point Arithmetic.
+
+https://ieeexplore.ieee.org/document/4610935
+
+---
